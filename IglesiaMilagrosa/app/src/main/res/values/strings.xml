@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Iglesia Milagrosa</string>
+    <string name="str_bienvenido">Bienvenido</string>
+    <string name="str_informate">Informáte</string>
+    <string name="str_iglesia_la_milagrosa">Iglesia la Milagrosa</string>
+
+    <string name="str_btn_entrar">Entrar</string>
+    <string name="title_activity_informate">Iglesia la Milagrosa</string>
+    <string name="menu_publica">Publica</string>
+
+    <string name="str_tab_publicaciones">Publicaciones</string>
+    <string name="str_tab_favoritos">Favoritos</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="crear_boton">CREAR CUENTA</string>
+    <string name="nombre_input">Usuario</string>
+    <string name="contrasena_input">Constraseña</string>
+    <string name="recordar_check">Recordarme</string>
+    <string name="olvidar_text">¿Olvidaste tu Contraseña?</string>
+    <string name="entrar_boton">ENTRAR</string>
+    <string name="info_text">Necesitas tener privilegios para realizar publicaciones</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
